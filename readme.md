@@ -28,4 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legeek01&show_icons=true&locale=en" alt="legeek01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legeek01&" alt="legeek01" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legeek01&" alt="legeek01" /></p>
+
+<h3>My trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemaitre4523" alt="lemaitre4523" /></a> </p>
